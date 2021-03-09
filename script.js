@@ -137,7 +137,6 @@ function updateAreaWithZip() {
         districtList.forEach(dist => {
             setTimeout(() => {
                 var settings = {
-                    "async": true,
                     "crossDomain": true,
                     "url": dist.url,
                     "method": "GET",
@@ -192,7 +191,7 @@ function updateAreaWithZip() {
                     districtAdded += 1;
 
                     if (districtAdded == districtList.length) {
-                        saveData(districtAreaList, 'district-area.json');
+                        saveData(areaList, 'district-area-zip.json');
                         //saveData(NoDistrictState, 'NoDistrictState.json');
                     }
                 });
