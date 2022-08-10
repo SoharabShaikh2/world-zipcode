@@ -1,0 +1,657 @@
+[
+    {
+        "CountryCode": "0101",
+        "Country": "Bahamas",
+        "url": "https://worldpostalcode.com/bahamas/"
+    },
+    {
+        "CountryCode": "0102",
+        "Country": "Barbados",
+        "url": "https://worldpostalcode.com/barbados/"
+    },
+    {
+        "CountryCode": "0103",
+        "Country": "Canada",
+        "url": "https://worldpostalcode.com/canada/"
+    },
+    {
+        "CountryCode": "0104",
+        "Country": "Costa Rica",
+        "url": "https://worldpostalcode.com/costa-rica/"
+    },
+    {
+        "CountryCode": "0105",
+        "Country": "Cuba",
+        "url": "https://worldpostalcode.com/cuba/"
+    },
+    {
+        "CountryCode": "0106",
+        "Country": "Dominicana",
+        "url": "https://worldpostalcode.com/dominican-republic/"
+    },
+    {
+        "CountryCode": "0107",
+        "Country": "El Salvador",
+        "url": "https://worldpostalcode.com/el-salvador/"
+    },
+    {
+        "CountryCode": "0108",
+        "Country": "Greenland",
+        "url": "https://worldpostalcode.com/greenland/"
+    },
+    {
+        "CountryCode": "0109",
+        "Country": "Guadeloupe",
+        "url": "https://worldpostalcode.com/guadeloupe/"
+    },
+    {
+        "CountryCode": "0110",
+        "Country": "Guatemala",
+        "url": "https://worldpostalcode.com/guatemala/"
+    },
+    {
+        "CountryCode": "0111",
+        "Country": "Haiti",
+        "url": "https://worldpostalcode.com/haiti/"
+    },
+    {
+        "CountryCode": "0112",
+        "Country": "Honduras",
+        "url": "https://worldpostalcode.com/honduras/"
+    },
+    {
+        "CountryCode": "0113",
+        "Country": "Jamaica",
+        "url": "https://worldpostalcode.com/jamaica/"
+    },
+    {
+        "CountryCode": "0114",
+        "Country": "Martinique",
+        "url": "https://worldpostalcode.com/martinique/"
+    },
+    {
+        "CountryCode": "0115",
+        "Country": "Mexico",
+        "url": "https://worldpostalcode.com/mexico/"
+    },
+    {
+        "CountryCode": "0116",
+        "Country": "Puerto Rico",
+        "url": "https://worldpostalcode.com/puerto-rico/"
+    },
+    {
+        "CountryCode": "0117",
+        "Country": "United States",
+        "url": "https://worldpostalcode.com/united-states/"
+    },
+    {
+        "CountryCode": "0118",
+        "Country": "Virgin Islands, U.S.",
+        "url": "https://worldpostalcode.com/virgin-islands/"
+    },
+    {
+        "CountryCode": "0201",
+        "Country": "Argentina",
+        "url": "https://worldpostalcode.com/argentina/"
+    },
+    {
+        "CountryCode": "0202",
+        "Country": "Brazil",
+        "url": "https://worldpostalcode.com/brazil/"
+    },
+    {
+        "CountryCode": "0203",
+        "Country": "Chile",
+        "url": "https://worldpostalcode.com/chile/"
+    },
+    {
+        "CountryCode": "0204",
+        "Country": "Colombia",
+        "url": "https://worldpostalcode.com/colombia/"
+    },
+    {
+        "CountryCode": "0205",
+        "Country": "Ecuador",
+        "url": "https://worldpostalcode.com/ecuador/"
+    },
+    {
+        "CountryCode": "0206",
+        "Country": "French Guiana",
+        "url": "https://worldpostalcode.com/french-guiana/"
+    },
+    {
+        "CountryCode": "0207",
+        "Country": "Paraguay",
+        "url": "https://worldpostalcode.com/paraguay/"
+    },
+    {
+        "CountryCode": "0208",
+        "Country": "Peru",
+        "url": "https://worldpostalcode.com/peru/"
+    },
+    {
+        "CountryCode": "0209",
+        "Country": "Uruguay",
+        "url": "https://worldpostalcode.com/uruguay/"
+    },
+    {
+        "CountryCode": "0210",
+        "Country": "Venezuela",
+        "url": "https://worldpostalcode.com/venezuela/"
+    },
+    {
+        "CountryCode": "0301",
+        "Country": "Albania",
+        "url": "https://worldpostalcode.com/albania/"
+    },
+    {
+        "CountryCode": "0302",
+        "Country": "Andorra",
+        "url": "https://worldpostalcode.com/andorra/"
+    },
+    {
+        "CountryCode": "0303",
+        "Country": "Austria",
+        "url": "https://worldpostalcode.com/austria/"
+    },
+    {
+        "CountryCode": "0304",
+        "Country": "Belarus",
+        "url": "https://worldpostalcode.com/belarus/"
+    },
+    {
+        "CountryCode": "0305",
+        "Country": "Belgium",
+        "url": "https://worldpostalcode.com/belgium/"
+    },
+    {
+        "CountryCode": "0306",
+        "Country": "Bulgaria",
+        "url": "https://worldpostalcode.com/bulgaria/"
+    },
+    {
+        "CountryCode": "0307",
+        "Country": "Croatia",
+        "url": "https://worldpostalcode.com/croatia/"
+    },
+    {
+        "CountryCode": "0308",
+        "Country": "Cyprus",
+        "url": "https://worldpostalcode.com/cyprus/"
+    },
+    {
+        "CountryCode": "0309",
+        "Country": "Czech Republic",
+        "url": "https://worldpostalcode.com/czech-republic/"
+    },
+    {
+        "CountryCode": "0310",
+        "Country": "Denmark",
+        "url": "https://worldpostalcode.com/denmark/"
+    },
+    {
+        "CountryCode": "0311",
+        "Country": "Estonia",
+        "url": "https://worldpostalcode.com/estonia/"
+    },
+    {
+        "CountryCode": "0312",
+        "Country": "Faroe Islands",
+        "url": "https://worldpostalcode.com/faroe-islands/"
+    },
+    {
+        "CountryCode": "0313",
+        "Country": "Finland",
+        "url": "https://worldpostalcode.com/finland/"
+    },
+    {
+        "CountryCode": "0314",
+        "Country": "France",
+        "url": "https://worldpostalcode.com/france/"
+    },
+    {
+        "CountryCode": "0315",
+        "Country": "Germany",
+        "url": "https://worldpostalcode.com/germany/"
+    },
+    {
+        "CountryCode": "0316",
+        "Country": "Gibraltar",
+        "url": "https://worldpostalcode.com/gibraltar/"
+    },
+    {
+        "CountryCode": "0317",
+        "Country": "Greece",
+        "url": "https://worldpostalcode.com/greece/"
+    },
+    {
+        "CountryCode": "0318",
+        "Country": "Guernsey",
+        "url": "https://worldpostalcode.com/guernsey/"
+    },
+    {
+        "CountryCode": "0319",
+        "Country": "Hungary",
+        "url": "https://worldpostalcode.com/hungary/"
+    },
+    {
+        "CountryCode": "0320",
+        "Country": "Iceland",
+        "url": "https://worldpostalcode.com/iceland/"
+    },
+    {
+        "CountryCode": "0321",
+        "Country": "Ireland",
+        "url": "https://worldpostalcode.com/ireland/"
+    },
+    {
+        "CountryCode": "0322",
+        "Country": "Isle Of Man",
+        "url": "https://worldpostalcode.com/isle-of-man/"
+    },
+    {
+        "CountryCode": "0323",
+        "Country": "Italy",
+        "url": "https://worldpostalcode.com/italy/"
+    },
+    {
+        "CountryCode": "0324",
+        "Country": "Jersey",
+        "url": "https://worldpostalcode.com/jersey/"
+    },
+    {
+        "CountryCode": "0325",
+        "Country": "Latvia",
+        "url": "https://worldpostalcode.com/latvia/"
+    },
+    {
+        "CountryCode": "0326",
+        "Country": "Liechtenstein",
+        "url": "https://worldpostalcode.com/liechtenstein/"
+    },
+    {
+        "CountryCode": "0327",
+        "Country": "Lithuania",
+        "url": "https://worldpostalcode.com/lithuania/"
+    },
+    {
+        "CountryCode": "0328",
+        "Country": "Luxembourg",
+        "url": "https://worldpostalcode.com/luxembourg/"
+    },
+    {
+        "CountryCode": "0329",
+        "Country": "Macedonia",
+        "url": "https://worldpostalcode.com/macedonia/"
+    },
+    {
+        "CountryCode": "0330",
+        "Country": "Malta",
+        "url": "https://worldpostalcode.com/malta/"
+    },
+    {
+        "CountryCode": "0331",
+        "Country": "Moldova",
+        "url": "https://worldpostalcode.com/moldova/"
+    },
+    {
+        "CountryCode": "0332",
+        "Country": "Monaco",
+        "url": "https://worldpostalcode.com/monaco/"
+    },
+    {
+        "CountryCode": "0333",
+        "Country": "Montenegro",
+        "url": "https://worldpostalcode.com/montenegro/"
+    },
+    {
+        "CountryCode": "0334",
+        "Country": "Netherlands",
+        "url": "https://worldpostalcode.com/netherlands/"
+    },
+    {
+        "CountryCode": "0335",
+        "Country": "Norway",
+        "url": "https://worldpostalcode.com/norway/"
+    },
+    {
+        "CountryCode": "0336",
+        "Country": "Poland",
+        "url": "https://worldpostalcode.com/poland/"
+    },
+    {
+        "CountryCode": "0337",
+        "Country": "Portugal",
+        "url": "https://worldpostalcode.com/portugal/"
+    },
+    {
+        "CountryCode": "0338",
+        "Country": "Romania",
+        "url": "https://worldpostalcode.com/romania/"
+    },
+    {
+        "CountryCode": "0339",
+        "Country": "Russia",
+        "url": "https://worldpostalcode.com/russian-federation/"
+    },
+    {
+        "CountryCode": "0340",
+        "Country": "San Marino",
+        "url": "https://worldpostalcode.com/san-marino/"
+    },
+    {
+        "CountryCode": "0341",
+        "Country": "Serbia",
+        "url": "https://worldpostalcode.com/serbia/"
+    },
+    {
+        "CountryCode": "0342",
+        "Country": "Slovakia",
+        "url": "https://worldpostalcode.com/slovakia/"
+    },
+    {
+        "CountryCode": "0343",
+        "Country": "Slovenia",
+        "url": "https://worldpostalcode.com/slovenia/"
+    },
+    {
+        "CountryCode": "0344",
+        "Country": "Spain",
+        "url": "https://worldpostalcode.com/spain/"
+    },
+    {
+        "CountryCode": "0345",
+        "Country": "Sweden",
+        "url": "https://worldpostalcode.com/sweden/"
+    },
+    {
+        "CountryCode": "0346",
+        "Country": "Switzerland",
+        "url": "https://worldpostalcode.com/switzerland/"
+    },
+    {
+        "CountryCode": "0347",
+        "Country": "Ukraine",
+        "url": "https://worldpostalcode.com/ukraine/"
+    },
+    {
+        "CountryCode": "0348",
+        "Country": "United Kingdom",
+        "url": "https://worldpostalcode.com/united-kingdom/"
+    },
+    {
+        "CountryCode": "0349",
+        "Country": "Vatican",
+        "url": "https://worldpostalcode.com/vatican/"
+    },
+    {
+        "CountryCode": "0401",
+        "Country": "Afghanistan",
+        "url": "https://worldpostalcode.com/afghanistan/"
+    },
+    {
+        "CountryCode": "0402",
+        "Country": "Armenia",
+        "url": "https://worldpostalcode.com/armenia/"
+    },
+    {
+        "CountryCode": "0403",
+        "Country": "Bahrain",
+        "url": "https://worldpostalcode.com/bahrain/"
+    },
+    {
+        "CountryCode": "0404",
+        "Country": "Bangladesh",
+        "url": "https://worldpostalcode.com/bangladesh/"
+    },
+    {
+        "CountryCode": "0405",
+        "Country": "Cambodia",
+        "url": "https://worldpostalcode.com/cambodia/"
+    },
+    {
+        "CountryCode": "0406",
+        "Country": "China",
+        "url": "https://worldpostalcode.com/china/"
+    },
+    {
+        "CountryCode": "0407",
+        "Country": "Hong Kong",
+        "url": "https://worldpostalcode.com/hong-kong/"
+    },
+    {
+        "CountryCode": "0408",
+        "Country": "India",
+        "url": "https://worldpostalcode.com/india/"
+    },
+    {
+        "CountryCode": "0409",
+        "Country": "Indonesia",
+        "url": "https://worldpostalcode.com/indonesia/"
+    },
+    {
+        "CountryCode": "0410",
+        "Country": "Iran",
+        "url": "https://worldpostalcode.com/iran/"
+    },
+    {
+        "CountryCode": "0411",
+        "Country": "Iraq",
+        "url": "https://worldpostalcode.com/iraq/"
+    },
+    {
+        "CountryCode": "0412",
+        "Country": "Israel",
+        "url": "https://worldpostalcode.com/israel/"
+    },
+    {
+        "CountryCode": "0413",
+        "Country": "Japan",
+        "url": "https://worldpostalcode.com/japan/"
+    },
+    {
+        "CountryCode": "0414",
+        "Country": "Jordan",
+        "url": "https://worldpostalcode.com/jordan/"
+    },
+    {
+        "CountryCode": "0415",
+        "Country": "Kazakhstan",
+        "url": "https://worldpostalcode.com/kazakhstan/"
+    },
+    {
+        "CountryCode": "0416",
+        "Country": "Kuwait",
+        "url": "https://worldpostalcode.com/kuwait/"
+    },
+    {
+        "CountryCode": "0417",
+        "Country": "Lebanon",
+        "url": "https://worldpostalcode.com/lebanon/"
+    },
+    {
+        "CountryCode": "0418",
+        "Country": "Malaysia",
+        "url": "https://worldpostalcode.com/malaysia/"
+    },
+    {
+        "CountryCode": "0419",
+        "Country": "Maldives",
+        "url": "https://worldpostalcode.com/maldives/"
+    },
+    {
+        "CountryCode": "0420",
+        "Country": "Mongolia",
+        "url": "https://worldpostalcode.com/mongolia/"
+    },
+    {
+        "CountryCode": "0421",
+        "Country": "Nepal",
+        "url": "https://worldpostalcode.com/nepal/"
+    },
+    {
+        "CountryCode": "0422",
+        "Country": "Oman",
+        "url": "https://worldpostalcode.com/oman/"
+    },
+    {
+        "CountryCode": "0423",
+        "Country": "Pakistan",
+        "url": "https://worldpostalcode.com/pakistan/"
+    },
+    {
+        "CountryCode": "0424",
+        "Country": "Philippines",
+        "url": "https://worldpostalcode.com/philippines/"
+    },
+    {
+        "CountryCode": "0425",
+        "Country": "Qatar",
+        "url": "https://worldpostalcode.com/qatar/"
+    },
+    {
+        "CountryCode": "0426",
+        "Country": "Singapore",
+        "url": "https://worldpostalcode.com/singapore/"
+    },
+    {
+        "CountryCode": "0427",
+        "Country": "Sri Lanka",
+        "url": "https://worldpostalcode.com/sri-lanka/"
+    },
+    {
+        "CountryCode": "0428",
+        "Country": "Taiwan",
+        "url": "https://worldpostalcode.com/taiwan/"
+    },
+    {
+        "CountryCode": "0429",
+        "Country": "Thailand",
+        "url": "https://worldpostalcode.com/thailand/"
+    },
+    {
+        "CountryCode": "0430",
+        "Country": "Turkey",
+        "url": "https://worldpostalcode.com/turkey/"
+    },
+    {
+        "CountryCode": "0431",
+        "Country": "UAE",
+        "url": "https://worldpostalcode.com/united-arab-emirates/"
+    },
+    {
+        "CountryCode": "0432",
+        "Country": "Vietnam",
+        "url": "https://worldpostalcode.com/vietnam/"
+    },
+    {
+        "CountryCode": "0501",
+        "Country": "American Samoa",
+        "url": "https://worldpostalcode.com/american-samoa/"
+    },
+    {
+        "CountryCode": "0502",
+        "Country": "Australia",
+        "url": "https://worldpostalcode.com/australia/"
+    },
+    {
+        "CountryCode": "0503",
+        "Country": "Fiji",
+        "url": "https://worldpostalcode.com/fiji/"
+    },
+    {
+        "CountryCode": "0504",
+        "Country": "Guam",
+        "url": "https://worldpostalcode.com/guam/"
+    },
+    {
+        "CountryCode": "0505",
+        "Country": "Marshall Islands",
+        "url": "https://worldpostalcode.com/marshall-islands/"
+    },
+    {
+        "CountryCode": "0506",
+        "Country": "New Zealand",
+        "url": "https://worldpostalcode.com/new-zealand/"
+    },
+    {
+        "CountryCode": "0601",
+        "Country": "Algeria",
+        "url": "https://worldpostalcode.com/algeria/"
+    },
+    {
+        "CountryCode": "0602",
+        "Country": "Cameroon",
+        "url": "https://worldpostalcode.com/cameroon/"
+    },
+    {
+        "CountryCode": "0603",
+        "Country": "Egypt",
+        "url": "https://worldpostalcode.com/egypt/"
+    },
+    {
+        "CountryCode": "0604",
+        "Country": "Ghana",
+        "url": "https://worldpostalcode.com/ghana/"
+    },
+    {
+        "CountryCode": "0605",
+        "Country": "Kenya",
+        "url": "https://worldpostalcode.com/kenya/"
+    },
+    {
+        "CountryCode": "0606",
+        "Country": "Mauritius",
+        "url": "https://worldpostalcode.com/mauritius/"
+    },
+    {
+        "CountryCode": "0607",
+        "Country": "Mayotte",
+        "url": "https://worldpostalcode.com/mayotte/"
+    },
+    {
+        "CountryCode": "0608",
+        "Country": "Morocco",
+        "url": "https://worldpostalcode.com/morocco/"
+    },
+    {
+        "CountryCode": "0609",
+        "Country": "Nigeria",
+        "url": "https://worldpostalcode.com/nigeria/"
+    },
+    {
+        "CountryCode": "0610",
+        "Country": "Reunion",
+        "url": "https://worldpostalcode.com/reunion/"
+    },
+    {
+        "CountryCode": "0611",
+        "Country": "South Africa",
+        "url": "https://worldpostalcode.com/south-africa/"
+    },
+    {
+        "CountryCode": "0612",
+        "Country": "Tanzania",
+        "url": "https://worldpostalcode.com/tanzania/"
+    },
+    {
+        "CountryCode": "0613",
+        "Country": "Tunisia",
+        "url": "https://worldpostalcode.com/tunisia/"
+    },
+    {
+        "CountryCode": "0614",
+        "Country": "Uganda",
+        "url": "https://worldpostalcode.com/uganda/"
+    },
+    {
+        "CountryCode": "0615",
+        "Country": "Zambia",
+        "url": "https://worldpostalcode.com/zambia/"
+    },
+    {
+        "CountryCode": "0616",
+        "Country": "Zimbabwe",
+        "url": "https://worldpostalcode.com/zimbabwe/"
+    }
+]

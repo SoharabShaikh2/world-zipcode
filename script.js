@@ -80,7 +80,9 @@ function updateState() {
     });
 }
 
-function updateDistrict() {
+
+
+function updateNonDistrictState() {
     var districtList = [];
     var NoDistrictState = [];
 
@@ -120,6 +122,97 @@ function updateDistrict() {
                     if (stateAdded == stateList.length) {
                         //saveData(districtList, 'district.json');
                         saveData(NoDistrictState, 'NoDistrictState.json');
+                    }
+                });
+
+            }, 2000);
+        });
+    });
+}
+
+function updateDistrictState() {
+    var districtList = [];
+    var NoDistrictState = [];
+
+    readTextFile("files/region.json", function (text) {
+        var stateList = JSON.parse(text);
+        var stateAdded = 0;
+        stateList.forEach(state => {
+            setTimeout(() => {
+                var settings = {
+                    "async": true,
+                    "crossDomain": true,
+                    "url": state.url,
+                    "method": "GET",
+                    "headers": {
+                        "cache-control": "no-cache",
+                        "postman-token": "8f50604a-4657-361b-544c-d17a80c61e75",
+                        'Access-Control-Allow-Origin': 'https://worldpostalcode.com'
+                    }
+                }
+                $.ajax(settings).done(function (response) {
+                    var data = document.getElementById('data');
+                    data.innerHTML = response;
+                    var regions = data.getElementsByClassName('regions');
+                    if (regions.length > 0 && regions[0].children.length > 0) {
+                        for (let i = 0; i < regions[0].children.length; i++) {
+                            let e = regions[0].children[i];
+                            districtList.push({ RegionCode: state.RegionCode, Region: state.Region, DistrictCode: state.RegionCode + zeroPad((i + 1), 3), District: e.innerText, url: getURL(e.href) })
+                        }
+                    }
+                    else {
+                        NoDistrictState.push(state);
+                        //console.log(NoDistrictState);
+                    }
+                    //console.log(districtList);
+                    stateAdded += 1;
+
+                    if (stateAdded == stateList.length) {
+                        //saveData(districtList, 'district.json');
+                        saveData(districtList, 'district.json');
+                    }
+                });
+
+            }, 2000);
+        });
+    });
+}
+
+function updateOnlyAreaWithOutZip() {
+    var areaList = [];
+
+    readTextFile("files/district.json", function (text) {
+        var districtList = JSON.parse(text);
+        var districtAdded = 0;
+        districtList.forEach(dist => {
+            setTimeout(() => {
+                var settings = {
+                    "crossDomain": true,
+                    "url": dist.url,
+                    "method": "GET",
+                    async: false,
+                    "headers": {
+                        "cache-control": "no-cache",
+                        "postman-token": "8f50604a-4657-361b-544c-d17a80c61e75",
+                        'Access-Control-Allow-Origin': 'https://worldpostalcode.com'
+                    }
+                }
+                $.ajax(settings).done(function (response) {
+                    var data = document.getElementById('data');
+                    data.innerHTML = response;
+                    var regions = data.getElementsByClassName('regions');
+                    if (regions.length > 0 && regions[0].children.length > 0) {
+                        for (let i = 0; i < regions[0].children.length; i++) {
+                            let e = regions[0].children[i];
+                            areaList.push({ RegionCode: dist.RegionCode, Region: dist.Region, DistrictCode: dist.DistrictCode, District: dist.District, AreaCode: dist.DistrictCode + zeroPad((i + 1), 3), AreaName: e.innerText, url: getURL(e.href) })
+                        }
+                    }
+                    //console.log(districtList);
+                    districtAdded += 1;
+
+                    if (districtAdded == districtList.length) {
+                        //saveData(districtList, 'district.json');
+                        saveData(areaList, 'area.json');
                     }
                 });
 
@@ -200,8 +293,10 @@ function updateAreaWithZip() {
         });
     });
 }
+
+
 function getURL(url) {
-    return url.replace('http://localhost:8080/', mainUrl);
+    return url.replace('http://127.0.0.1:5500/', mainUrl);
 }
 
 function zeroPad(num, places) {
